@@ -1,0 +1,64 @@
+.class-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.class-table th,
+.class-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.class-table th {
+    background-color: blue;
+    color: white;
+}
+
+.class-table .full {
+    background-color: red;
+    color: white;
+}
+
+.class-table .book-now {
+    background-color: orange;
+
+}
+
+.class-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.class-table th,
+.class-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.class-table th {
+    background-color: blue;
+    color: white;
+}
+
+.class-table .full {
+    background-color: red;
+    color: white;
+}
+
+.class-table .book-now {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.class-table .full-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: not-allowed;
+    border-radius: 5px;
+}
